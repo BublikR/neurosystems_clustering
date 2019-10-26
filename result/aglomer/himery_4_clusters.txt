@@ -1,0 +1,6 @@
+Length of clusters: 101, 113, 58, 75
+Medians:
+https://chimera.biomed.kiev.ua/video/pendel-3d/tst.php?res=50X50X50-alpha-rad-tor-oblast-cor3-1#50X50X50-alpha-rad-tor-oblast-cor3-1/alpha=.4-r=5.15-epsilon=0.05-mu=.1/
+https://chimera.biomed.kiev.ua/video/pendel-3d/tst.php?res=50X50X50-alpha-rad-tor-3-grid#50X50X50-alpha-rad-tor-3-grid/alpha=0.2-r=4-epsilon=0.05-mu=0.1-ini=init-alpha=0.3-r=5-epsilon=0.1-mu=0.1.xz/
+https://chimera.biomed.kiev.ua/video/pendel-3d/tst.php?res=100X100X100-alpha-rad-2tor-oblast5#100X100X100-alpha-rad-2tor-oblast5/alpha=.27-r=1.6-epsilon=0.05-mu=.1/
+https://chimera.biomed.kiev.ua/video/pendel-3d/tst.php?res=100X100X100-alpha-mu-oblast-tor2rod-2#100X100X100-alpha-mu-oblast-tor2rod-2/alpha=.42-r=3.0-epsilon=0.1-mu=.01/
