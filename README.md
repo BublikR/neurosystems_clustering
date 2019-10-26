@@ -25,7 +25,7 @@ The k-means method required a preliminary determination of the optimal number of
 Clustering using the method of constructing hierarchical trees gave the same result as the k-means method, with the same order of the number of elements in the clusters (347, 472 and 3799 for "complete"; 345, 345 and 3928 for "average"; 347, 966 and 3305 for "ward") and typical representatives of each cluster as medians of these clusters (Fig. 5).
 After analyzing the obtained results, one can see that chimera states are mostly found in the first cluster (Fig.5 b), chaotic states are almost in the second cluster (Fig.5c), and synchronized states are almost in the third cluster (Fig.5a).
 
-Fig. 5. Median cluster elements in average frequency space a) – synchronized, b) spiral chimera state, c) chaotic state.:
+* Fig. 5. Median cluster elements in average frequency space a) – synchronized, b) spiral chimera state, c) chaotic state.:
 ![Median cluster elements](/img/Median.png)
 
 * Сomparison of all results:
