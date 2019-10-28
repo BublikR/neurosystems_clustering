@@ -39,6 +39,9 @@ Clustering results were presented at School and Workshop on Patterns of Synchron
 * The results of two-dimensional clustering states with a global coupling:
 ![states_with_a_global_coupling](/img/states_with_a_global_coupling.png)
 
+## Conference
+The results of the work were presented at the [XIX International Young Scientists' Conference on Applied Physics](https://indico.knu.ua/event/9/)
+
 ## References
     1. Kuramoto Y and Battogtokh D 2002 Coexistence of coherence and incoherence in nonlocally coupled phase oscillators Nonlinear Phenom. Complex Syst. 5 380–5
     2. Yuriy Maistrenko, Oleksandr Sudakov, Oleksiy Osiv, Volodymyr Maistrenko .Chimera States in Three-Dimensions. New Journal of Physics, vol. 17, 073037 (2015)
